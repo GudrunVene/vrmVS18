@@ -10,4 +10,4 @@ app_lucky_number:
 
 app_create_bookings:
     path: /views/base
-    controller: App\Controller\KatseController::base
+    controller: App\Controller\CreateBookingsController::base

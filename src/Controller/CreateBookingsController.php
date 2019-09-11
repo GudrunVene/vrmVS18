@@ -8,7 +8,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
 class CreateBookingsController extends AbstractController
 {
-    public function create()
+    public function base()
     {
        
         return $this->render('views/base.html.twig');
