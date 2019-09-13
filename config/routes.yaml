@@ -8,6 +8,9 @@ app_lucky_number:
     path: /lucky/number
     controller: App\Controller\LuckyController::number
 
+
 app_create_bookings:
     path: /views/base
-    controller: App\Controller\CreateBookingsController::base
+    controller: App\Controller\CreateBookingsController::base 
+
+
